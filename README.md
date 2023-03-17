@@ -10,3 +10,5 @@ Creating AWS EC2 with Terraform
   Thank you. 😇
 
 Here is my linkedIn id: Raj Gondalia
+
+![Untitled Diagram-Page-1 drawio (2)](https://user-images.githubusercontent.com/114596788/225898067-2367cfd0-240b-4dfb-b29b-f719378bfca6.png)
