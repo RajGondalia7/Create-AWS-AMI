@@ -1,5 +1,5 @@
-# Create-AWS-AMI-Terraform
-Creating AWS AMI with Terraform 
+# Create-AWS-EC2-Terraform
+Creating AWS EC2 with Terraform 
 
   After I show you all the console task we are going to move on terraform.
   I will share with you my linkedIn account, so anyone can go through the 1st phase of console task.
